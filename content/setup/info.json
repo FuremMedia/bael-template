@@ -1,25 +1,15 @@
 {
-  "sitename": "Bael",
-  "sitedescription": "A fashionable brutalist blog template using Netlify CMS and Nuxt.js.",
-  "siteicon": "/images/uploads/icon.png",
+  "sitename": "Furem",
+  "sitedescription": "Our Official Newsroom and Blog for all things Furem!",
+  "siteicon": "/images/uploads/furemlogo.png",
   "showmenu": true,
-  "emailsignup": true,
-  "altlayout": false,
+  "emailsignup": false,
+  "altlayout": true,
   "menu": [
     {
-      "name": "jake101",
+      "name": "Home",
       "position": "1",
-      "link": "https://www.jake101.com/"
-    },
-    {
-      "name": "Nuxt.js",
-      "position": "2",
-      "link": "https://www.nuxtjs.org/"
-    },
-    {
-      "name": "Netlify",
-      "position": "3",
-      "link": "https://www.netlify.com/"
+      "link": "https://www.furemmedia.co.uk"
     }
   ]
 }
